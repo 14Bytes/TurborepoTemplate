@@ -1,0 +1,29 @@
+{
+  "name": "@14bits/727",
+  "version": "v0.0.1",
+  "description": "Turborepo Template Edited By 14bits.inc",
+  "keywords": ["monorepo", "turborepo"],
+  "homepage": "github.com/14Bytes",
+  "bugs": {
+    "url": "github.com/14Bytes",
+    "email": "j1nh4ng@icloud.com"
+  },
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "J1nH4ng",
+      "homepage": "github.com/J1nH4ng",
+      "email": "j1nh4ng@icloud.com"
+    }
+  ],
+  "scripts": {},
+  "private": "true",
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  },
+  "packageManager": "pnpm@9.14.2",
+  "engines": {
+    "node": "~22.11.0"
+  }
+}
