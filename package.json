@@ -17,7 +17,8 @@
     }
   ],
   "scripts": {
-    "format": "prettier --write \"**/*.{js,ts,tsx,md}\""
+    "format": "prettier --write \"**/*.{js,ts,tsx,md}\"",
+    "lint": "turbo run lint"
   },
   "private": "true",
   "dependencies": {},
